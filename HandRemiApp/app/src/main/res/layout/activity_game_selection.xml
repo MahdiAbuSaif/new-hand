@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.GameSelectionActivity"> 
+
+    <TextView
+        android:id="@+id/textViewSelectGameTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_game" 
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/buttonGameHand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_hand" 
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/buttonGameHandSaudi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_hand_saudi" 
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/buttonGameHand500"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_hand_500" 
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/buttonGameTarneeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_tarneeb" 
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/buttonGameTrix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_trix" />
+
+</LinearLayout>
+

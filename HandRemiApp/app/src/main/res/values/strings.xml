@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hand Remi</string>
+    <string name="play_single_player">Play Single Player</string>
+    <string name="play_multiplayer_bluetooth">Play Multiplayer (Bluetooth)</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="choose_game">Choose Game</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="start_game">Start Game</string>
+    <string name="find_devices">Find Devices</string>
+    <string name="connected_players">Connected Players</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="draw_card">Draw Card</string>
+    <string name="discard_card">Discard Card</string>
+    <string name="game_hand">Hand (Normal)</string>
+    <string name="game_hand_saudi">Hand (Saudi)</string>
+    <string name="game_hand_500">Hand 500</string>
+    <string name="game_tarneeb">Tarneeb</string>
+    <string name="game_trix">Trix</string>
+    <!-- Add other necessary strings -->
+</resources>
+
